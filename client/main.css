@@ -1,0 +1,10 @@
+/* CSS declarations go here */
+.basic-form {
+  height:300px;
+  width:600px;
+  background: -webkit-linear-gradient(279deg, rgb(61, 68, 78) 0%, rgb(53, 59, 71) 97%);
+  background: -o-linear-gradient(279deg, rgb(61, 68, 78) 0%, rgb(53, 59, 71) 97%);
+  background: -ms-linear-gradient(279deg, rgb(61, 68, 78) 0%, rgb(53, 59, 71) 97%);
+  background: -moz-linear-gradient(279deg, rgb(61, 68, 78) 0%, rgb(53, 59, 71) 97%);
+  background: linear-gradient(171deg, rgb(61, 68, 78) 0%, rgb(53, 59, 71) 97%);
+}
